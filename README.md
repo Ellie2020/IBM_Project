@@ -17,11 +17,10 @@ This is the Capstone Project.
    using the BeautifulSoup library.
 
 #### PART 2. 
-1. Finding  the latitude and longitude with Foursquare API 
+1. Finding  the latitude and longitude with Foursquare API. 
 1. Adding two extra columns for latitude and longitude to the table (from PART 1) for Toronto diffferent neighbourhoods and boroughs.
 
 #### PART 3. 
 ##### Segmenting and Clustering Neighborhoods in Toronto 
-1. Generate maps to visualize the neighborhoods,
+1. Generate maps to visualize the neighborhoods.
 1. Visualize how the neighbourhoods cluster together.
-
